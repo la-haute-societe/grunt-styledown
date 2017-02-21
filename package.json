@@ -32,6 +32,6 @@
   "dependencies": {
     "chalk": "^0.5.1",
     "extend": "^2.0.0",
-    "styledown": "^1.0.1"
+    "styledown": "maxime-colin/styledown"
   }
 }
