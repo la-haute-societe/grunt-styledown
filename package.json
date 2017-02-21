@@ -1,5 +1,5 @@
 {
-  "name": "grunt-styledown",
+  "name": "lhs-grunt-styledown",
   "version": "1.0.0",
   "description": "Grunt plugin to generate style guides via styledown",
   "homepage": "https://github.com/maxime-colin/grunt-styledown",
