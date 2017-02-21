@@ -8,7 +8,7 @@
 
 'use strict';
 
-var Styledown = require('styledown');
+var Styledown = require('lhs-styledown');
 var chalk = require('chalk');
 var extend = require('extend');
 var util = require('util');
