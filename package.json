@@ -1,9 +1,9 @@
 {
-  "name": "lhs-grunt-styledown",
+  "name": "@lahautesociete/grunt-styledown",
   "version": "1.0.0",
   "description": "Grunt plugin to generate style guides via styledown",
-  "homepage": "https://github.com/maxime-colin/grunt-styledown",
-  "repository": "https://github.com/maxime-colin/grunt-styledown",
+  "homepage": "https://github.com/la-haute-societe/grunt-styledown",
+  "repository": "https://github.com/la-haute-societe/grunt-styledown",
   "author": {
     "name": "Drake Hampton",
     "email": "drakehamp@gmail.com",
@@ -32,6 +32,6 @@
   "dependencies": {
     "chalk": "^0.5.1",
     "extend": "^2.0.0",
-    "lhs-styledown": "^2.0.0"
+    "@lahautesociete/styledown": "^2.0.0"
   }
 }
