@@ -1,6 +1,6 @@
 {
   "name": "@lahautesociete/grunt-styledown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Grunt plugin to generate style guides via styledown",
   "homepage": "https://github.com/la-haute-societe/grunt-styledown",
   "repository": "https://github.com/la-haute-societe/grunt-styledown",
